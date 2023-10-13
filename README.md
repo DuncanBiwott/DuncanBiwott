@@ -1,6 +1,5 @@
 # Hi 👋, I'm Duncan Biwott! 👋
 
-![Duncan Biwott](https://avatars.githubusercontent.com/DuncanBiwott) 
 
 I'm a passionate Spring Boot developer with expertise in Micro-service architecture, Kubernetes, Docker, and database development. Recently, I've added Flutter development skills to my toolkit. My strong analytical mindset, attention to detail, and diverse skill set enable me to design and implement scalable, reliable, and efficient software solutions tailored to clients' needs.
 
